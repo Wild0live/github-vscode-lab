@@ -1,0 +1,2 @@
+print("Hello from Day 1")
+
