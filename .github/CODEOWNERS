@@ -1,0 +1,3 @@
+# Require owners to review changes to docs and tests
+/docs/ @Wild0live
+/tests/ @Wild0live
